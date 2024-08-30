@@ -1,4 +1,7 @@
 # sp500-analysis-TaTech
+
+https://github.com/EdwinOPacheco/sp500-analysis.git
+
 Proyecto de ETL y Análisis de Empresas del S&amp;P 500: Fase 6
 
 Este proyecto es la práctica de todo lo visto en el Bootcamp de Análisis y Visualización de Datos. Comprende el desarrollo de un ETL para el precio de cierre en el primer trimestre del 2024 de las empresas del índice S&P Global Ratings, Insertar un dataframe de Python en una tabla SQL, un dashboard en power bi con el análisis estadístico del trimestre de la referencia y un análisis no supervisado de Machine Learning.

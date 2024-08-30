@@ -21,7 +21,7 @@ if not os.path.exists(data_dir):
 
 #Configuración del logging
 
-log_filename = os.path.join(log_dir, 'Etapa3.log')
+log_filename = os.path.join(log_dir, 'ETL.log')
 
 logging.basicConfig(
 	level=logging.INFO,

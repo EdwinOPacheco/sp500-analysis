@@ -1,0 +1,7 @@
+pyodbc
+logging
+requests
+beautifulsoup4
+yfinance
+pandas
+os
